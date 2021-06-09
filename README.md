@@ -26,12 +26,18 @@ Also note that while licensing information is provided for the public test set (
 
 ### Files
 train.csv - the training set
+
 test.csv - the test set
 
 ### Columns
 id - unique ID for excerpt
+
 url_legal - URL of source - this is blank in the test set.
+
 license - license of source material - this is blank in the test set.
+
 excerpt - text to predict reading ease of
+
 target - reading ease
+
 standard_error - measure of spread of scores among multiple raters for each excerpt. Not included for test data.
