@@ -16,6 +16,7 @@ If successful, you'll aid administrators, teachers, and students. Literacy curri
 Submissions are scored on the root mean squared error. RMSE is defined as:
 
 RMSE=1𝑛∑𝑖=1𝑛(𝑦𝑖−𝑦̂ 𝑖)2
+
 where 𝑦̂  is the predicted value, 𝑦 is the original value, and 𝑛 is the number of rows in the test data.
 
 ## Data Description
